@@ -31,7 +31,7 @@ def IngestRecords(streamResource):
 
             print(response)
 
-IngestRecords('santosh-kinesis')
+IngestRecords('stream-resource')
 
 
 

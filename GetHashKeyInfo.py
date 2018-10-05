@@ -20,4 +20,4 @@ def DescribeResource(streamResource):
 
 
 
-response = DescribeResource('santosh-kinesis')
+response = DescribeResource('stream-resource')
